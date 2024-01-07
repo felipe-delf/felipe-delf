@@ -1,9 +1,9 @@
 <h1 align="center">Oi👋, eu sou Felipe Delfino</h1>
 <h3 align="center">Desenvolvedor Java apaixonado em busca do próximo desafio no mundo do código</h3>
 
-- 🌱 Atualmente estou aprendendo **Java e SQL**
+- 🌱 Atualmente estou aprendendo **SQL, C e Spring boot 3**
 
-- 💬 Me pergunte sobre **java, HTML e CSS**
+- 💬 Me pergunte sobre **java, javaScript,  HTML e CSS**
 
 - 📫 Você pode me achar através do e-mail **felipe.delf11@gmail.com**
 
