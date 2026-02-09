@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **SQL, C e Spring boot 3**
 
-- 💬 Me pergunte sobre **java, javaScript,  HTML e CSS**
+- 💬 Me pergunte sobre **java e Python**
 
 - 📫 Você pode me achar através do e-mail **felipe.delf11@gmail.com**
 
