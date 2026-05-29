@@ -41,7 +41,7 @@ Atuo como suporte N2 e desenvolvedor, com foco em backend, banco de dados e reso
 
 * 💼 LinkedIn:
 
-  <a href="https://linkedin.com/in/felipe-delfino-barbosa-3a6a22189" target="_blank">
+  <a href="https://linkedin.com/in/felipe-delfino-barbosa" target="_blank">
 
 linkedin.com/in/felipe-delfino-barbosa-3a6a22189 </a>
 
